@@ -1,0 +1,7 @@
+10:49:38.949 [main] INFO  main.EmpDataInsertModule - Total Time Taken (ms):14
+10:49:46.194 [main] INFO  main.EmpDataInsertModule - Row Inserted
+10:49:46.197 [main] INFO  main.EmpDataInsertModule - Row Inserted
+10:49:46.198 [main] INFO  main.EmpDataInsertModule - Row Inserted
+10:49:46.198 [main] INFO  main.EmpDataInsertModule - Total Record inserted are 3
+10:49:46.198 [main] INFO  main.EmpDataInsertModule - Total Time Taken (ms):14
+12:00:00.407 [main] INFO  main.EmpDataInsertModule - Row Inserted

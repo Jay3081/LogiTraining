@@ -1,0 +1,8 @@
+10:29:56.666 [main] INFO  main.LogRunApp - Info Msg
+10:29:56.668 [main] ERROR main.LogRunApp - Error Msg
+10:43:30.997 [main] INFO  main.EmpDataInsertModule - Total Record inserted are 3
+10:43:30.999 [main] INFO  main.EmpDataInsertModule - Total Time Taken (ms):13
+10:49:38.945 [main] INFO  main.EmpDataInsertModule - Row Inserted
+10:49:38.948 [main] INFO  main.EmpDataInsertModule - Row Inserted
+10:49:38.949 [main] INFO  main.EmpDataInsertModule - Row Inserted
+10:49:38.949 [main] INFO  main.EmpDataInsertModule - Total Record inserted are 3
